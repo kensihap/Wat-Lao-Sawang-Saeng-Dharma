@@ -1,0 +1,46 @@
+html {
+    background-color: #FFCF9D;
+}
+
+.image1 {
+    border: 5px solid black;
+    width: 100%;
+    aspect-ratio: 1.2;
+}
+
+#Front_Page {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+    margin-bottom:5%;
+}
+
+.title {
+    background-color: #FFB26F;
+    margin-bottom:5%;
+    border: 5px solid black; 
+}
+
+#quote {
+    background-color: #FFB26F;
+    margin-bottom:5%;
+    border: 5px solid black;
+    font-family: "Noto Sans Lao Looped", serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-variation-settings: 100;
+}
+
+
+#Quick_Links {
+    
+    font-size: 10px;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: 20px;
+    border: 5px solid black;
+    background-color: #FFB26F;
+    
+}
